@@ -1,2 +1,1 @@
 I am currently a faculty member with the Institute for Research in Fundamental Sciences(IPM), working at the intersection of machine learning and computer vision. My research interests include machine learning (deep learning and outlier detection) and computer vision (crowded scene analysis and activity recognition).
-I am always looking for motivated students to join IPM AI group. If you are interested, please contact me!
